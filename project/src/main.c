@@ -1,4 +1,6 @@
 #include "file_functions.h"
+///mohamamdrezamonemian
+///402106604
 int main(int argc, char *argv[])
 { 
 	if (argc <2){
